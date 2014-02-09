@@ -1,7 +1,7 @@
 on dictStart()
-
+	
 	activate application "TextEdit"
-
+	
 	tell application "System Events"
 		keystroke "a" using command down
 		
