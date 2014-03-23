@@ -7,6 +7,7 @@ Apple Dictation Madness
 ##Setup
 
 (Note that advanced dictation should be enabled on both apple machines)
+(Make sure that there are NO OTHER VERSIONS WITH THE SAME NAMES saved anywhere on your hard drive)
 
 1. Download this repo to your machine 
 2. In system preferences > sharing, enable remote apple events
