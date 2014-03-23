@@ -33,4 +33,10 @@ on dictStop()
 	end tell
 end dictStop
 
-
+on dictReset()
+	tell application "dictRunner"
+		ignoring application responses
+			quit
+		end ignoring
+	end tell
+end dictReset
